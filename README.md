@@ -1,7 +1,3 @@
-Sure, here's a ready-to-use description for your Codsoft AI project on GitHub:
-
----
-
 ## Codsoft AI Project
 
 Welcome to the Codsoft AI Project repository! This project is a comprehensive exploration of artificial intelligence (AI) techniques implemented in Python. From foundational machine learning algorithms to cutting-edge deep learning models, this repository covers a wide range of AI concepts and applications.
